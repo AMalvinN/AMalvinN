@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @AMalvinN
-- 👀 I’m interested in Data science and analytics
+- 👀 I’m interested in everything
 - 🌱 I’m currently learning Python
 - 💞️ I’m looking to collaborate on anything
 - 📫 How to reach me ...
